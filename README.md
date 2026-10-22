@@ -1,4 +1,4 @@
-# aem-edge-functions-boilerplate
+> **This repository has moved.** It now lives in [`techforum-samples/aem/aem-edge-functions-sample`](https://github.com/techforum-repo/techforum-samples/tree/master/aem/aem-edge-functions-sample), with its full commit history. This repo is archived and read-only.# aem-edge-functions-boilerplate
 
 ## Introduction
 
